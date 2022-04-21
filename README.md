@@ -60,7 +60,7 @@ Link:![image](https://user-images.githubusercontent.com/91062741/164026906-5e873
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png"></code>
 
 ## Team
- Nithya![image](![image](https://user-images.githubusercontent.com/91062741/164396101-91a4f045-7b77-4479-9b37-cdec3155a287.png)
+ Nithya (![image](https://user-images.githubusercontent.com/91062741/164396101-91a4f045-7b77-4479-9b37-cdec3155a287.png)
  (https://www.linkedin.com/in/nithya-bhujangarao-ab6747223/)
  [Nithya](https://www.linkedin.com/in/nithya-bhujangarao-ab6747223/)
 
